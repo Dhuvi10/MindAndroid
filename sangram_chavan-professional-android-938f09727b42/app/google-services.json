@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "590426521683",
+    "firebase_url": "https://artist-cf947.firebaseio.com",
+    "project_id": "artist-cf947",
+    "storage_bucket": "artist-cf947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590426521683:android:791f1c4c91b07683",
+        "android_client_info": {
+          "package_name": "com.incredible.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590426521683-dv3ld38tqo9crrtpudtg8qp45ck2j31s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incredible.pro",
+            "certificate_hash": "52e0eb35bb196526f63b3d56aab4afe33842faec"
+          }
+        },
+        {
+          "client_id": "590426521683-9d1q3cl54bbmbduhsqsavl6uglvlfvee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrpUtl8y1rb3y1pJVXIjOnt5RcSlRu2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590426521683-9d1q3cl54bbmbduhsqsavl6uglvlfvee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
